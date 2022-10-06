@@ -16,9 +16,8 @@
 
 
 # Bell Aliant
-**902 / 782** : [Nova Scotia & PEI)(https://en.wikipedia.org/wiki/Area_codes_902_and_782)	
+**902 / 782** : [Nova Scotia & PEI](https://en.wikipedia.org/wiki/Area_codes_902_and_782)
 
 **506** / **428** : [New Brunswick](https://en.wikipedia.org/wiki/Area_code_506)
 
-**709 / 879** : (Newfoundland and Labrador)[https://en.wikipedia.org/wiki/Area_code_709]
-
+**709 / 879** : [Newfoundland and Labrador](https://en.wikipedia.org/wiki/Area_code_709)
